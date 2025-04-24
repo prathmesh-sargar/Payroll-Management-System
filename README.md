@@ -62,4 +62,4 @@ Below are some screenshots of the application in action (you can upload your own
 
 1. Clone this repository  
    ```bash
-   git clone https://github.com/prathmesh-sargar/Payroll-Management-System.git
+   https://github.com/prathmesh-sargar/Payroll-Management-System.git
