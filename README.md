@@ -1,28 +1,58 @@
-# Payroll-Management-System
+# 💼 Payroll Management System
 
-A simple Payroll Management System where you can 
+A **simple and efficient desktop application** built with **Java Swing** for managing employee payroll operations in a small organization.
 
-Add
-Update
-Delete
-Search 
+---
 
-Employees from the System
+## ✨ Features
 
-Add
-Update
-Delete 
+🔹 **Employee Management**
+- Add new employees  
+- Update existing employee records  
+- Delete or search employees by ID  
 
-Salary details
+🔹 **Salary Management**
+- Add salary details  
+- Update salary records  
+- Delete salary entries  
 
-Add
-Update
-Delete 
+🔹 **Leave Management**
+- Add leave details  
+- Update or remove leave records  
 
-Leave details 
+🔹 **Payslip Generation**
+- Auto-generate payslips  
+- Print directly from the application  
 
-Generate and Print Pay Slips
+🔹 **Database**
+- MySQL is used for storing all records  
+- SQL file included for easy setup  
 
-Database file is also included
+---
 
-GUI is done using Java Swing Framework
+## 🖼️ GUI Preview
+
+Below are some screenshots of the application in action (you can upload your own screenshots in the repo and reference them here):
+
+| Home Page | Login Page | Employee Form |
+|----------|------------|---------------|
+| ![Home](screenshots/home.png) | ![Login](screenshots/login.png) | ![Employee](screenshots/employee.png) |
+
+> 🔍 *To display your screenshots, save them in a folder named `screenshots/` and update the filenames above as needed.*
+
+---
+
+## 🛠️ Tech Stack
+
+- **Java**
+- **Swing Framework (GUI)**
+- **MySQL Database**
+- **NetBeans IDE**
+
+---
+
+## 🚀 Getting Started
+
+1. Clone this repository  
+   ```bash
+   git clone https://github.com/prathmesh-sargar/Payroll-Management-System.git
