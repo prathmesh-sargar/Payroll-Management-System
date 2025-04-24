@@ -32,12 +32,12 @@ A **simple and efficient desktop application** built with **Java Swing** for man
 
 ## 🖼️ GUI Preview
 
-Below are some screenshots of the application in action (you can upload your own screenshots in the repo and reference them here):
+Below are some screenshots of the application in action 
 
 | ![Home](https://github.com/user-attachments/assets/e67dda7a-fcb0-4c33-9552-915535080291)
  | ![Login](https://github.com/user-attachments/assets/63f8286f-dc7b-41ca-9aa5-9496f933ba8e)
  | ![Employee](https://github.com/user-attachments/assets/dc7e9b05-1020-4cde-a17a-2fe41d9aea2d)
-|
+ 
 
 ![image](https://github.com/user-attachments/assets/3e793f11-89b8-452e-8cc0-9bfc73276386)
 
