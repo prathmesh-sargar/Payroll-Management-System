@@ -36,9 +36,18 @@ Below are some screenshots of the application in action (you can upload your own
 
 | Home Page | Login Page | Employee Form |
 |----------|------------|---------------|
-| ![Home](screenshots/home.png) | ![Login](screenshots/login.png) | ![Employee](screenshots/employee.png) |
+| ![Home](https://github.com/user-attachments/assets/e67dda7a-fcb0-4c33-9552-915535080291)
+ | ![Login](https://github.com/user-attachments/assets/63f8286f-dc7b-41ca-9aa5-9496f933ba8e)
+ | ![Employee](https://github.com/user-attachments/assets/dc7e9b05-1020-4cde-a17a-2fe41d9aea2d)
+|
 
-> 🔍 *To display your screenshots, save them in a folder named `screenshots/` and update the filenames above as needed.*
+![image](https://github.com/user-attachments/assets/3e793f11-89b8-452e-8cc0-9bfc73276386)
+
+![image](https://github.com/user-attachments/assets/14dc92f2-c449-44a9-9051-a4b5df31758c)
+
+
+
+
 
 ---
 
