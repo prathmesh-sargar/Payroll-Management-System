@@ -9,7 +9,7 @@ public class DbConnection {
 
     static final String JDBC_DRIVER = "com.mysql.cj.jdbc.Driver";
     static final String DB_USER_NAME = "root";
-    static final String DB_PASSWORD = "sql100";
+    static final String DB_PASSWORD = "SQLPassWord";
     static final String DB_URL = "jdbc:mysql://localhost:3306/PayrollSystem"; // Already includes DB name
 
     public static Connection getDbConnection() {
